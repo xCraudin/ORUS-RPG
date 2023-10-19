@@ -1,2 +1,2 @@
 # **ORUS-RPG**
-"ORUS-RPG" is a text RPG created in Python
+"ORUS-RPG" is a text RPG created in Python.
